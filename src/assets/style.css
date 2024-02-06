@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+    background-image: url('../../images/comic_frame.png');
+    background-repeat: no-repeat;
+    background-color: #535353 !important;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; 
+    
+}
